@@ -1,0 +1,39 @@
+body {
+    background-size: cover;
+    }
+    .heading {
+    width: 100%;
+    height: 17%;
+    }
+    #status, #object_found {
+    font-size: 15px;
+    }
+    canvas {
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    margin-top: 140px;
+    }
+    .note {
+    color: black;
+    }
+    h5 {
+    color: black;
+    font-size: 20px;
+    }
+    input {
+    width: 40%;
+    height: 30px;
+    text-align: left;
+    border-radius: 5px;
+    }
+    #footer{
+        background-color:rgb(255, 242, 0) ;
+        color: black;
+        font-size: 20px;
+        position: fixed;
+        bottom:0px ;
+        width: 100%;
+        text-align: center;
+        text-shadow: 2px 2px fuchsia;
+        font-size: 25px;
+    }
